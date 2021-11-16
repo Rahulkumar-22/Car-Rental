@@ -1,5 +1,5 @@
-First install mysql database.
-Now install the XAMPP server.
+1)First install mysql database.
+2)Now install the XAMPP server.
 Download source code from the given Github repository.
 Unzip the zip and copy the full folder with the name "Car".
 Now launch the xampp server and start apache server and mysql server.
